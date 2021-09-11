@@ -12,5 +12,6 @@ public class FitTest {
         System.out.println("hello33333 333333333！！");
         System.out.println("hello    git4！！");
         System.out.println("master  test！！");
+        System.out.println("hot-fix test！！");
     }
 }
